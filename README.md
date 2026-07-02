@@ -63,32 +63,6 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
 
 ---
 
-
-
-# 🏆 Achievements
-
-> A collection of my notable accomplishments, certifications, awards, and milestones in AI, Software Development, and Research.
-
-### 🥇 Awards & Recognition
-
-<a href="YOUR_LINKEDIN_POST_URL">
-  <img src="https://www.linkedin.com/in/tahirpathan/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Br%2FFMNQBpTAST3sqZq4FXwQ%3D%3D"/>
-</a>
-- 🏆 Achievement Title *(Add Link)*
-- 🎖️ Achievement Title *(Add Link)*
-
----
-
-### 📜 Certifications
-
-- 📄 Certification Name *(View Certificate)*
-- 📄 Certification Name *(View Certificate)*
-- 📄 Certification Name *(View Certificate)*
-
----
-
-### 📝 Featured Achievement Posts
-
 I regularly share my achievements, certifications, hackathon results, research milestones, and learning journey on LinkedIn.
 
 - 🥇 Achievement Post #1
