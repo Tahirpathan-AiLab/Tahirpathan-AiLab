@@ -21,11 +21,11 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
       <img alt="ORCID" title="ORCID Profile" src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
    </a>
 
-   <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+   <a href="https://github.com/Tahirpathan-AiLab?tab=followers">
       <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_GITHUB_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
 
-   <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories&sort=stargazers">
+   <a href="https://github.com/Tahirpathan-AiLab?tab=repositories&sort=stargazers">
       <img alt="GitHub Stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_GITHUB_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
 </p>
