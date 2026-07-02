@@ -51,7 +51,7 @@ I build scalable, production-ready AI applications using modern AI frameworks an
     </td>
 
     <td align="right" valign="middle">
-      <img src="tahir-removebg-preview.png" width="300" alt="Tahir Pathan"/>
+      <img src="tahir-removebg-preview.png"  alt="Tahir Pathan"/>
     </td>
   </tr>
 </table>
