@@ -34,7 +34,7 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
 
 ## About Me
 
-<table>
+<table border="none"> 
 <tr>
 <td width="80%">
 
@@ -52,7 +52,7 @@ Currently exploring:
 
 <td width="20%" align="center">
 
-<img src="tahir-removebg-preview.png" alt="Tahir Pathan" width="120"/>
+<img src="tahir-removebg-preview.png" alt="Tahir Pathan" width="90"/>
 
 </td>
 </tr>
