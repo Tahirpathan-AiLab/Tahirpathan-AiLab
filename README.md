@@ -1,4 +1,4 @@
-# 🤖 Tahir Pathan
+#  ✨ Tahir Pathan ✨
 
 **`AI Engineer | LLMs • Agentic AI • RAG • Intelligent Automation`**
 
@@ -32,18 +32,17 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🤖 AI Engineer specializing in **LLMs, Agentic AI & RAG**
-- 🧠 Passionate about Production AI Systems
-- ⚡ Building AI Agents & Intelligent Automation
-- 🔍 Exploring Multi-Agent Systems & MCP Servers
-- 🚀 Turning AI ideas into scalable products
-- 🌱 Always learning emerging AI technologies
-
+- AI Engineer specializing in Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Intelligent Automation.
+- Experienced in designing and developing scalable, production-ready AI applications.
+- Focused on building AI agents, multi-agent systems, and intelligent automation workflows.
+- Skilled in integrating LLMs with vector databases, APIs, and modern AI frameworks.
+- Passionate about transforming research into practical, real-world AI solutions.
+- Continuously exploring emerging technologies in Generative AI, Agentic AI, and AI infrastructure.
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,6 +64,9 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
 
 I regularly share my achievements, certifications, hackathon results, research milestones, and learning journey on LinkedIn.
 
-- 🥇 Achievement Post #1
-- 🏆 Achievement Post #2
-- 📜 Certification Post #3
+<p align="center">
+  <a href="https://www.linkedin.com/in/tahirpathan/">
+    <img src="https://img.shields.io/badge/Join%20Me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+
