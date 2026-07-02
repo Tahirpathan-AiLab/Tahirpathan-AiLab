@@ -34,29 +34,29 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
 
 ## About Me
 
-<table border="none"> 
-<tr>
-<td width="80%">
-
 AI Engineer specializing in **Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and Intelligent Automation**.
 
 I build scalable, production-ready AI applications using modern AI frameworks and technologies. My expertise includes AI Agents, RAG pipelines, prompt engineering, vector databases, and intelligent automation.
 
-Currently exploring:
-- Agentic AI
-- Multi-Agent Systems
-- MCP Servers
-- AI Infrastructure
+<table width="100%" cellspacing="0" cellpadding="0" border-color="#ffffff">
+  <tr>
+    <td  width="800" align="left" valign="middle">
 
-</td>
+- Building production-ready AI systems
+- Developing AI Agents & Multi-Agent Systems
+- Working with LangChain, LangGraph & FastAPI
+- Exploring MCP Servers and AI Infrastructure
+- Passionate about open-source AI development
 
-<td width="20%" align="center">
+    </td>
 
-<img src="tahir-removebg-preview.png" alt="Tahir Pathan" width="90"/>
-
-</td>
-</tr>
+    <td align="right" valign="middle">
+      <img src="tahir-removebg-preview.png" width="150" alt="Tahir Pathan"/>
+    </td>
+  </tr>
 </table>
+<br clear="right"/>
+
 
 ## Languages & Tools
 
