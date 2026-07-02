@@ -40,7 +40,7 @@ I build scalable, production-ready AI applications using modern AI frameworks an
 
 <table width="100%" cellspacing="0" cellpadding="0" border-color="#ffffff">
   <tr>
-    <td  width="800" align="left" valign="middle">
+    <td  width="700" align="left" valign="middle">
 
 - Building production-ready AI systems
 - Developing AI Agents & Multi-Agent Systems
