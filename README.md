@@ -22,8 +22,12 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
    </a>
 
    <a href="https://github.com/Tahirpathan-AiLab?tab=followers">
-      <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Tahirpathan-AiLab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
+  <img
+    alt="GitHub Followers"
+    title="Follow me on GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/Tahirpathan-AiLab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cache=1"
+  />
+</a>
    <a href="https://github.com/Tahirpathan-AiLab?tab=repositories&sort=stargazers">
   <img
     alt="GitHub Stars"
