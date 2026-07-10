@@ -21,13 +21,7 @@ I'm an **AI Engineer** specializing in **Large Language Models (LLMs), Agentic A
       <img alt="ORCID" title="ORCID Profile" src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
    </a>
 
-   <a href="https://github.com/Tahirpathan-AiLab?tab=followers">
-  <img
-    alt="GitHub Followers"
-    title="Follow me on GitHub"
-    src="https://custom-icon-badges.demolab.com/github/followers/Tahirpathan-AiLab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cache=1"
-  />
-</a>
+   
 
 </p>
 
